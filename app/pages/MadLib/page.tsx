@@ -1,6 +1,5 @@
 "use client"
 import NavBar from '@/app/components/NavBar'
-import ResponseBox from '@/app/components/ResponseBox'
 import { fetchMadLib } from '@/utils/service';
 import { useState } from 'react'
 
