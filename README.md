@@ -45,3 +45,4 @@ Reviewer:
 ## Vanessa Acuna
 ## 03/6/26
 ## This was the All In One rebuild with Next.js I used a previous API I created in the past to complete this project.
+## Peer Review (Brandon Estrada) - I like the background image you chose for your website as well as the layout. Your buttons all link properly to their respective pages. I did notice a few minor issues in both of your reverse it games, on your alphanumeric one it returns a large string of text and in your numbers only one it does not return anything back. 
