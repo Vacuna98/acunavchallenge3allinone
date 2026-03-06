@@ -36,6 +36,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
+VANESSA ACUNA
+3/6/26
+This is the All In One Rebuild but with Next.js I had to pull from a previous API that I created in the past. 
+Reviewer:
+
+
 ## Vanessa Acuna
 ## 03/6/26
 ## This was the All In One rebuild with Next.js I used a previous API I created in the past to complete this project.
